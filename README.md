@@ -19,7 +19,7 @@ QUADRADO
 
 $A=L^{2}$
 
-Sendo,
+Sendo:
 
 
 A:área
