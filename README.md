@@ -14,3 +14,13 @@ b=base
 
 
 h=altura
+
+$A=L^{2}$
+
+Sendo,
+
+
+A:área
+
+
+L:lado
