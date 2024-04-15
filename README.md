@@ -39,7 +39,7 @@ D:diagonal maior
 
 d:diagonal menor
 
-Retângulo
+RETÂNGULO
 
 $A={b.h}$
 
