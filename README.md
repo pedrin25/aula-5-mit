@@ -75,6 +75,6 @@ Sendo,
 A:área
 
 
-pi:constante PI (3,14)
+$\pi$:constante PI (3,14)
 
 r:raio
