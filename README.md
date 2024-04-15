@@ -4,7 +4,13 @@ TRIÂNGULO
 
 $A=\frac{b.h}{2}$
 
-Sendo
+Sendo:
+
+
 A=área
+
+
 b=base
+
+
 h=altura
